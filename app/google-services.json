@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "959052318987",
+    "firebase_url": "https://kcomicreader.firebaseio.com",
+    "project_id": "kcomicreader",
+    "storage_bucket": "kcomicreader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959052318987:android:744c16463fb4564d",
+        "android_client_info": {
+          "package_name": "com.ffrowies.comicreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959052318987-dd8eoqsaca3n6psnb25agfenraea3mpf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ffrowies.comicreader",
+            "certificate_hash": "5aa328af1e12b5462c2fa1a7b5df8718a1f8410b"
+          }
+        },
+        {
+          "client_id": "959052318987-v3jhebi2s12ka6t8ehliuar3u64disdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIsr4B-bMxhgB19Z6uYUWWt6CJsgYqEoY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959052318987-v3jhebi2s12ka6t8ehliuar3u64disdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
